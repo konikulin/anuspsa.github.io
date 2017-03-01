@@ -1,0 +1,32 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anuspsa.xyz" resolutions="1x" timestamp="1488374217685">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4125395932" ref="index"/>
+    <file name="iefonts_index.css" crc="3811429572" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="form_check.php" crc="303648844" ref="index"/>
+    <file name="form_throttle.php" crc="236764551" ref="index"/>
+    <file name="form_process.php" crc="4272079531" ref="index"/>
+    <file name="form-u305.php" crc="3924253893" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="oboi.jpg" crc="188765025" ref="index"/>
+    <file name="zakaz3.png" crc="4250785399" ref="index"/>
+    <file name="zakaz1.jpg" crc="3923581228" ref="index"/>
+    <file name="zakaz2.jpg" crc="4239747548" ref="index"/>
+    <file name="oboi2.jpg" crc="417255392" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3811917563" seo="true" mt="1488374034608" redirect="true"/>
+</manifest>
